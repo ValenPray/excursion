@@ -1,3 +1,34 @@
-p {
-    color: pink;
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;   
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.camp {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
 }
